@@ -1,0 +1,2 @@
+# MMO_2023
+Labs MMO BMSTU 2023
